@@ -23818,7 +23818,6 @@
 .goofypismica.com
 .google-analytics.com
 .adservice.google.co.jp
-.analytics.google.com
 .fcmatch.google.com
 .fundingchoicesmessages.google.com
 .mail-ads.google.com
